@@ -6,3 +6,7 @@ React template starting point using:
 * Vite
 * TailwindCSS
 * Prettier-ESlint
+
+`yarn dev` to start development mode
+`yarn build` to build project
+`yarn preview` to view built project locally
